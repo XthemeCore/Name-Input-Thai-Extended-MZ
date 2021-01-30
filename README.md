@@ -5,4 +5,4 @@ Name Input Thai Extended plugin for RPG Maker MZ
 
 [รายละเอียดเพิ่มเติม gameworldth](https://www.gameworldth.com/forum/forum.php?mod=viewthread&tid=3836)
 
-[รายละเอียดเพิ่มเติม irpgth](http://http://irpg.in.th/thread-3549.html)
+[รายละเอียดเพิ่มเติม irpgth](http://irpg.in.th/thread-3549.html)
